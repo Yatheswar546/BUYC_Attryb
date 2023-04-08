@@ -1,0 +1,218 @@
+[
+ {
+  "year": "2021",
+  "manufacturer": "Maruti Suzuki",
+  "price": "859000",
+  "model": "Vitara Brezza",
+  "mileage": "34181",
+  "color": "grey",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/SqmKGiPlSCGCWxtUITiRlQ\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2020",
+  "manufacturer": "Tata",
+  "price": "786000",
+  "model": "Altroz",
+  "mileage": "21688",
+  "color": "white",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/YiWpyOELRs22IpyWLZQE5Q\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2012",
+  "manufacturer": "Hyundai",
+  "price": "353000",
+  "model": "i10",
+  "mileage": "22759",
+  "color": "red",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/p9hOaRjMRR28KntKmflH8w\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Hyundai",
+  "price": "1108000",
+  "model": "Venue",
+  "mileage": "25838",
+  "color": "silver",
+  "fuel": "petrol",
+  "transmission": "automatic",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/uDlwEbCJTiqVlnMOBvRf0Q\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Hyundai",
+  "price": "835000",
+  "model": "Elite i20",
+  "mileage": "30671",
+  "color": "red",
+  "fuel": "petrol",
+  "transmission": "automatic",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/%2BP20vEekTJSWaCina3kjgA\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Maruti Suzuki",
+  "price": "763000",
+  "model": "Baleno",
+  "mileage": "59708",
+  "color": "grey",
+  "fuel": "petrol",
+  "transmission": "automatic",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/GqRQIWZZQY%2B0Evs%2BPAz%2B5A\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Volkswagen",
+  "price": "609000",
+  "model": "Ameo",
+  "mileage": "45965",
+  "color": "white",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/pnQE9GnySH62XUQnrT3ZIQ\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Honda",
+  "price": "749000",
+  "model": "Jazz",
+  "mileage": "38756",
+  "color": "grey",
+  "fuel": "petrol",
+  "transmission": "automatic",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/igiYgfiMRoSUtIkER_E4DA\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ 
+ {
+  "year": "2015",
+  "manufacturer": "Ford",
+  "price": "641000",
+  "model": "EcoSport",
+  "mileage": "107251",
+  "color": "black",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/JPuZlkUgQOi_L3H4MXMdEg\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2015",
+  "manufacturer": "Honda",
+  "price": "651000",
+  "model": "City",
+  "mileage": "80524",
+  "color": "silver",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/RUBKvS4mR3O5ykeqBt1fIw\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2022",
+  "manufacturer": "Renault",
+  "price": "856000",
+  "model": "Kiger",
+  "mileage": "11164",
+  "color": "white",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/9KHj_YOTQOqqlTLDbK63bA\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2020",
+  "manufacturer": "Mahindra",
+  "price": "1284000",
+  "model": "XUV 300",
+  "mileage": "11702",
+  "color": "white",
+  "fuel": "diesel",
+  "transmission": "automatic",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/nVMhVf_wQLOhX9i2kaJ15A\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2017",
+  "manufacturer": "Tata",
+  "price": "665000",
+  "model": "Zest",
+  "mileage": "81556",
+  "color": "blue",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/5tb%2BSBxARte5%2BtibBDnjfg\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Tata",
+  "price": "520000",
+  "model": "Tiago",
+  "mileage": "31267",
+  "color": "red",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/vIQuscs0T_GqjNbNYp213Q\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2013",
+  "manufacturer": "Hyundai",
+  "price": "457000",
+  "model": "i20",
+  "mileage": "77290",
+  "color": "blue",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/PJClKoeXSWajFNzJs8NY9Q\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2018",
+  "manufacturer": "Maruti Suzuki",
+  "price": "724000",
+  "model": "Baleno",
+  "mileage": "55774",
+  "color": "silver",
+  "fuel": "petrol",
+  "transmission": "automatic",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/rjg0o6zZQsOPcfjxtLjuXQ\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2021",
+  "manufacturer": "Tata",
+  "price": "1060000",
+  "model": "Nexon",
+  "mileage": "10978",
+  "color": "green",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/LoJv0WT_QqyODpXcYrWWjQ\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2015",
+  "manufacturer": "Maruti Suzuki",
+  "price": "402000",
+  "model": "Wagon R 1.0",
+  "mileage": "27372",
+  "color": "grey",
+  "fuel": "petrol",
+  "transmission": "manual",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/MqUcF3ZTTjWJP2DNnNTH5g\/mobile\/file.JPG?w=300&dpr=1.3"
+ },
+ {
+  "year": "2019",
+  "manufacturer": "Tata",
+  "price": "979000",
+  "model": "Nexon",
+  "mileage": "16558",
+  "color": "orange",
+  "fuel": "diesel",
+  "transmission": "manual",
+  "featured":1,
+  "image": "\/\/d308ljkq6e62o1.cloudfront.net\/img\/w7Ugo8hfQeqe537GjYByHA\/mobile\/file.JPG?w=300&dpr=1.3"
+ }
+]
