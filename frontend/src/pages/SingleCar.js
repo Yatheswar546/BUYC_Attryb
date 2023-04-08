@@ -8,7 +8,7 @@ export default function SingleCar() {
     const [car,setCar]=useState({})
 
 async function datafetch(){
-    const res=await axios.get(`http://localhost:5000/api/cars/car/${id}`)
+    const res=await axios.get(`https://buyc-attryb-api.onrender.com/api/cars/car/${id}`)
     setCar(res.data.car)
 }
 

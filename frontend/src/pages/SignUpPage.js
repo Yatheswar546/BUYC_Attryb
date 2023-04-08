@@ -12,7 +12,7 @@ const [confirmpassword,setConfirmpassword]=useState("")
 const navigate=useNavigate()
 const handleSubmit=async (e)=>{
     e.preventDefault()
-    const res=await axios.post('http://localhost:5000/api/users/signup',{
+    const res=await axios.post('https://buyc-attryb-api.onrender.com/api/users/signup',{
         name,email,password,phonenumber,confirmpassword
     })
     if(res.data.status==='success'){

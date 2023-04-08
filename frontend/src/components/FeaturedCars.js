@@ -4,7 +4,7 @@ import axios from 'axios'
 export default function FeaturedCars() {
     const [cars,setCars]=useState([])
 async function datafetch(){
-    const cars=await axios.get('http://localhost:5000/api/cars/feature')
+    const cars=await axios.get('https://buyc-attryb-api.onrender.com/api/cars/feature')
     setCars(cars.data.cars)
 }
 

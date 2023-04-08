@@ -15,7 +15,7 @@ export default function DealerCar() {
   const [transmission, setTransmission] = useState('');
 
   async function datafetch() {
-    const res = await axios.get('http://localhost:5000/api/cars');
+    const res = await axios.get('https://buyc-attryb-api.onrender.com/api/cars');
 
     setCars(res.data.cars);
   }
@@ -30,7 +30,7 @@ setEdit(false)
   setShow(true)
 }
   async function AddCar(){
-  const res=await axios.post('http://localhost:5000/api/cars',{
+  const res=await axios.post('https://buyc-attryb-api.onrender.com/api/cars',{
     image,price,fuel,manufacturer,transmission
   })
   console.log(res)
@@ -40,7 +40,7 @@ setEdit(false)
   }
 
  async  function EditCar(){
-const res=await axios.put(`http://localhost:5000/api/cars/${id}`,{
+const res=await axios.put(`https://buyc-attryb-api.onrender.com/api/cars/${id}`,{
   fuel,price,transmission,image,manufacturer
 })
 if(res.data.status==='success'){
@@ -51,7 +51,7 @@ if(res.data.status==='success'){
     const handleDelete = async (e, id) => {
       e.preventDefault();
 
-      const res = await axios.delete(`http://localhost:5000/api/cars/${id}`);
+      const res = await axios.delete(`https://buyc-attryb-api.onrender.com/api/cars/${id}`);
 
       if (res.data.status === 'success') {
         window.location.reload(true);

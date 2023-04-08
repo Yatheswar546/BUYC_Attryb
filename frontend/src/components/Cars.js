@@ -9,7 +9,7 @@ export default function Cars() {
   const [year, setYear] = useState('');
   async function datafetch() {
     const res = await axios.get(
-      `http://localhost:5000/api/cars?m=${manufacturer}&y=${year}`
+      `https://buyc-attryb-api.onrender.com/api/cars?m=${manufacturer}&y=${year}`
     );
     // console.log(res.data.cars)
 

@@ -7,7 +7,7 @@ export default function OEM() {
     const [cars,setCars]=useState([])
 
     async function datafetch(){
-        const cars=await axios.get('http://localhost:5000/api/cars')
+        const cars=await axios.get('https://buyc-attryb-api.onrender.com/api/cars')
         setCars(cars.data.cars)
     }
 
